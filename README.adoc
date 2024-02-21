@@ -1,0 +1,4 @@
+= gradle-metal-sqlite
+:author: Pedro Lamarão <pedro.lamarao@gmail.com>
+
+Provide a Gradle Metal build for SQLite.
