@@ -2,3 +2,10 @@
 :author: Pedro Lamarão <pedro.lamarao@gmail.com>
 
 Provides a Gradle Metal build for SQLite.
+
+To build, place a JDK 17 in `JAVA_HOME` or `PATH`, and run:
+
+[source,shell]
+----
+./gradlew build
+----
