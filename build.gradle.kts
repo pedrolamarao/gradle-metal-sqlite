@@ -7,6 +7,9 @@ plugins {
     id("de.undercouch.download") version("5.5.0")
 }
 
+group = "br.dev.pedrolamarao.gradle.metal.sqlite"
+version = "3450100-SNAPSHOT"
+
 val prefix = "sqlite-amalgamation-3450100"
 val url = "https://sqlite.com/2024/sqlite-amalgamation-3450100.zip"
 
